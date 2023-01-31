@@ -1,0 +1,165 @@
+body{
+    margin: 0;
+}
+
+.first {
+    background-color: #000608;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    font-family: 'Explora', cursive;
+    font-size:x-large;
+    color:darkkhaki;
+    text-align:center;
+}
+
+.basketball{
+    position: absolute;
+    top: 354px;
+    left: 5%;
+}
+
+.code{
+    position: absolute;
+    top: 379px;
+    right: 5%;
+}
+
+.Deven{
+    border-radius: 100px;
+    text-align:center;
+}
+
+.second{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width:60%;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    font-family:'Trebuchet MS', cursive;
+    font-size:larger;
+    color:darkred;
+}
+
+.column-left{
+    float: left;
+    width: 50%;
+    text-align: right;
+    padding-right: 20px;
+}
+
+.column-right{
+    text-align:left;
+}
+
+.third{
+    text-align:center;
+    background-color: lightgrey;
+    font-family: 'Dancing Script', cursive;
+    font-size:30px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+a:link{
+    color: orangered;
+    text-decoration: none;
+}
+
+a:visited{
+    color: darkorchid;
+}
+
+a:hover{
+    color:royalblue;
+    text-decoration:none;
+}
+
+a:active{
+    color:yellow;
+}
+
+ul.languages{
+    
+    column-gap:10px;
+    list-style-type:none;
+}
+
+hr{
+    
+    border-top: dotted black 8px;
+    border-bottom: black;
+    width: 40%;
+}
+
+button{
+    font-size:70%;
+    padding: 8px;
+    border-radius:75px;
+}
+
+.last{
+    color:black;
+    padding-top:20px;
+}
+
+.headers{
+    text-align:center;
+    margin-top: 50px;
+    text-decoration: underline;
+}
+
+.Deven-contact{
+    margin-top:0px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.contact-page{
+    background-color:black;
+    text-align:center;
+    font-family:'Trebuchet MS', cursive;
+    font-size:large;
+    color:darkkhaki;
+}
+
+.hr-contact{
+    margin-bottom: 50px;
+}
+
+.card{
+    margin-left:30%;
+    margin-right:30%;
+    background-color:aliceblue;
+    border-style:solid;
+    border-color:black;
+    border-radius:15px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    outline:#000608 5px;
+    align-items:center;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+.form{
+    text-align:center;
+}
+
+.container{
+    padding: 25px;
+    text-align:center;
+    vertical-align:center;
+}
+
+.form-labels{
+    margin:0;
+    padding:5px;
+}
+
+.hrsplit{
+    margin-bottom:50px;
+    width:98%;
+}
